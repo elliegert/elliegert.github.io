@@ -1,3 +1,3 @@
 preview files
 
-[stacked bar chart](https://htmlpreview.github.io/?https://github.com/elliegert/elliegert.github.io/blob/main/characteristics_plotly.html)
+[stacked bar chart](https://htmlpreview.github.io/?https:https://github.com/elliegert/elliegert.github.io/blob/main/characteristics_plotly%20(1).html)
